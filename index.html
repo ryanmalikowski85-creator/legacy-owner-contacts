@@ -73,7 +73,7 @@
       <p><strong>Android:</strong> After downloading, open the file and import the contacts.</p>
     </div>
 
-    <p class="fallback">If the button does not work, <a href="LegacyOwnerResourceCenter-single-contact.vcf" download>tap here instead</a>.</p>
+    <p class="fallback">If the button does not work, <a href="LegacyOwnerResourceCenter-labeled.vcf" download>tap here instead</a>.</p>
   </main>
 
   <script>
@@ -84,7 +84,7 @@
       const url = URL.createObjectURL(blob);
       const link = document.createElement('a');
       link.href = url;
-      link.download = 'LegacyOwnerResourceCenter-single-contact.vcf';
+      link.download = 'LegacyOwnerResourceCenter-labeled.vcf';
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
