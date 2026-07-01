@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Resources;Legacy Owner;;;
+FN:Legacy Owner Resource Center
+ORG:Wyndham Owner Support
+item1.TEL;TYPE=VOICE:(602) -20-3-8930
+item1.X-ABLabel:Legacy Owner Services
+item2.TEL;TYPE=VOICE:(602) -30-5-6327
+item2.X-ABLabel:Legacy Owner Onboarding
+item3.TEL;TYPE=VOICE:(800) -25-1-8736
+item3.X-ABLabel:Club Wyndham Reservations
+item4.TEL;TYPE=VOICE:(888) -88-4-4321
+item4.X-ABLabel:VIP Reservations
+END:VCARD
